@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fresh-system-stock-6622" />
+        <module name="fresh-system-login-6611" />
+        <module name="fresh-system-ratify-6633" />
+        <module name="fresh-system-finance6666" />
+        <module name="fresh-system-po-6655" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
